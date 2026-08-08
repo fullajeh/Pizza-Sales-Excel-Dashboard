@@ -28,7 +28,8 @@ The original dataset required cleaning and standardization before analysis. I us
 <li><b>Data Validation</b> — Identified and handled inconsistencies that could affect analysis and aggregation.</li>
 </ul>
 
-<img width="1141" height="319" alt="Raw_Excel_Data1" src="https://github.com/user-attachments/assets/ca7cbe4c-ac5c-43bf-96c4-5c990a570aa1" />
+<img width="1296" height="320" alt="Raw_Excel_Data1" src="https://github.com/user-attachments/assets/4623be2a-bed7-4a12-962b-f36d81d2d41c" />
+
 
 ---
 
